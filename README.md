@@ -3,12 +3,13 @@
 ### Table of contents
 * [Introduction](#introduction)
 * [Technologies](#technologies)
-* [Data] (#data)
+* [Data](#data)
 * [Functions](#functions)
 * [Approach](#approach)
 
 ### Introduction
-The objective of this mini project is to find the words and their count by implementing mapper reducer algorithm in Python.[Map Reduce implementation] (https://github.com/sruthi1014/Implementing-Map-Reduce-Algorithm/blob/master/Map_reduce_implementation.ipynb) file has the code for the algorithms written.
+The objective of this mini project is to find the words and their count by implementing mapper reducer algorithm in Python.
+[Map Reduce implementation](https://github.com/sruthi1014/Implementing-Map-Reduce-Algorithm/blob/master/Map_reduce_implementation.ipynb) file has the code for the algorithms written.
 
 ### Technologies
 Project is created with:
